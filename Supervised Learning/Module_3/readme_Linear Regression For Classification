@@ -1,0 +1,1 @@
+you’ll get to take a look at what happens when you try to use linear regression for classification on categorical data.  You can see an interactive plot that attempts to classify between two categories.  And you may notice that this doesn’t work very well
